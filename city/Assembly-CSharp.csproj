@@ -52,8 +52,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GenerateMesh.cs" />
-     <Compile Include="Assets\Scripts\GenerateMeshMgr.cs" />
+     <Compile Include="Assets\Scripts\GenerateMesh\GenerateMesh.cs" />
+     <Compile Include="Assets\Scripts\GenerateMesh\GenerateMeshMgr.cs" />
+     <Compile Include="Assets\Scripts\MainMgr.cs" />
  <Reference Include="UnityEngine">
  <HintPath>D:/program/unity/2020.3.8f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

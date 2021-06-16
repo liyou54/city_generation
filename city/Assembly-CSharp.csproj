@@ -52,7 +52,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scrits\GenerateMap.cs" />
+     <Compile Include="Assets\Scripts\GenerateMesh.cs" />
  <Reference Include="UnityEngine">
  <HintPath>D:/program/unity/2020.3.8f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
